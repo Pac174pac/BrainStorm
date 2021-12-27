@@ -1,3 +1,3 @@
 # BrainStorm
-- [Project](https://github.com/Pac174pac/BrainStorm/blob/main/project.md)
-- [Model](https://github.com/Pac174pac/BrainStorm/blob/main/lifecycle.md)
+- [Проект](https://github.com/Pac174pac/BrainStorm/blob/main/project.md)
+- [Модель жизненного цикла](https://github.com/Pac174pac/BrainStorm/blob/main/lifecycle.md)
